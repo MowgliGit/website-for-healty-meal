@@ -1,21 +1,24 @@
-img{
-    width:100%;
+img {
+  width: 100%;
 }
 
 .carousel-item {
-    height: 550px;
+  height: 550px;
 }
 .carousel-image-1 {
-    background: url('../img/1.jpg');
-    background-size: cover;
+  background: linear-gradient(rgba(51, 51, 51, 0.571), rgba(51, 51, 51, 0.247)),
+    url("../img/1.jpg");
+  background-size: cover;
 }
-  
+
 .carousel-image-2 {
-    background: url('../img/2.jpg');
-    background-size: cover;
+  background: linear-gradient(rgba(51, 51, 51, 0.571), rgba(51, 51, 51, 0.247)),
+    url("../img/2.jpg");
+  background-size: cover;
 }
-  
+
 .carousel-image-3 {
-    background: url('../img/3.jpg');
-    background-size: cover;
+  background: linear-gradient(rgba(51, 51, 51, 0.571), rgba(51, 51, 51, 0.247)),
+    url("../img/3.jpg");
+  background-size: cover;
 }
